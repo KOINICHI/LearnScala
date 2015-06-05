@@ -1,0 +1,1 @@
+KOINICHI leaning Scala
